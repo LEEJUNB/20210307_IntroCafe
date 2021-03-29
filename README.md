@@ -1,4 +1,4 @@
-# IntroCafe
+# Step 4. IntroCafe
 - This project create a website that introduces virtual cafes.
 - Run in a virtual environment in django.
 
